@@ -4,7 +4,7 @@ Absolutely! Here are 2-4 sentence descriptions for each of your projects, suitab
 
 # Project Descriptions:
 
-## student_managment_system.zip:
+# student_managment_system.zip:
          C program manages student data from a file. It reads student IDs and names, sorts them by ID, and allows users to search for students.
 
 # 3d_midpoint_calculator.zip:
