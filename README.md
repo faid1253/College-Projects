@@ -2,21 +2,21 @@
 Projects/Assignments I completed at UTSA 
 Absolutely! Here are 2-4 sentence descriptions for each of your projects, suitable for a README file:
 
-Project Descriptions:
+# Project Descriptions:
 
-student_managment_system.zip:
+# student_managment_system.zip:
          C program manages student data from a file. It reads student IDs and names, sorts them by ID, and allows users to search for students.
 
-3d_midpoint_calculator.zip:
+# 3d_midpoint_calculator.zip:
          C program that calculates the midpoint and distance between two 3D points.  It takes user input for point coordinates and outputs the calculated results.
 
-Android_Studio_TicTacToe.zip:
+# Android_Studio_TicTacToe.zip:
         An Android Studio project implementing the classic Tic-Tac-Toe game. It provides a user interface for playing the game on an Android device.
    
-Bash_file_read_and_write.zip:
+# Bash_file_read_and_write.zip:
         A collection of Bash scripts that perform file reading and writing operations. Basic file manipulation tasks using Bash commands.
        
-C_file_reading_writing_and_memallocation.zip:
+# C_file_reading_writing_and_memallocation.zip:
         This C project demonstrates various file handling; includes examples of reading and writing files, and using malloc and calloc.
 
 Employee_salary_algorithim_java.zip:
