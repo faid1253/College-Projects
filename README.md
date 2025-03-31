@@ -1,6 +1,5 @@
 # College-Projects
-Projects/Assignments I completed at UTSA 
-Absolutely! Here are 2-4 sentence descriptions for each of your projects, suitable for a README file:
+Projects/Assignments I completed at UTSA
 
 # Project Descriptions:
 
